@@ -74,7 +74,7 @@ public class Atm {
             return;
         }
         int choice;
-        ;
+        
         do {
             System.out.println("ATM System");
             System.out.println("1.Check Balance");
